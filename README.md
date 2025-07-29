@@ -1,1 +1,1 @@
-# STIG-Implementations-Windows10
+# Windows 10 STIG Remediation Scripts (PowerShell)
