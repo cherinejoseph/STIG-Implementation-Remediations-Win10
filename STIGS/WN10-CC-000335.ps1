@@ -13,7 +13,7 @@
     STIG-ID         : WN10-CC-000335
 
 .TESTED ON
-    Date(s) Tested  : 07-30-2025
+    Date(s) Tested  : 2025-07-30
     Tested By       : Cherine Joseph
     Systems Tested  : Windows 10    
     PowerShell Ver. : PowerShell ISE
