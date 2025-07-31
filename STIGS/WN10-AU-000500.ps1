@@ -6,7 +6,7 @@
     Author          : Cherine Joseph
     LinkedIn        : linkedin.com/in/cherine-joseph
     GitHub          : github.com/cherinejoseph
-    Date Created    : 2025--7-29
+    Date Created    : 2025-07-29
     Last Modified   : 2025-07-29
     Version         : 1.0
     CVEs            : N/A
@@ -14,7 +14,7 @@
     STIG-ID         : WN10-AU-000500
 
 .TESTED ON
-    Date(s) Tested  : 07-29-2025
+    Date(s) Tested  : 2025-07-29
     Tested By       : Cherine Joseph    
     Systems Tested  : Windows 10    
     PowerShell Ver. : PowerShell ISE
