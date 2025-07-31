@@ -1,1 +1,1 @@
-## Windows 10 STIG Remediation Scripts (PowerShell)
+## STIG Implementation Remediations - Win10 (Powershell)
