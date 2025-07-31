@@ -13,10 +13,10 @@
     STIG-ID         : WN10-CC-000335
 
 .TESTED ON
-    Date(s) Tested  : 
-    Tested By       : 
-    Systems Tested  : 
-    PowerShell Ver. : 
+    Date(s) Tested  : 07-30-2025
+    Tested By       : Cherine Joseph
+    Systems Tested  : Windows 10    
+    PowerShell Ver. : PowerShell ISE
 
 .USAGE
     Please download the script and execute as administrator. 
