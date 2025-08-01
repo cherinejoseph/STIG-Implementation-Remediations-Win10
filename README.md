@@ -8,7 +8,7 @@ STIGs are developed by the **Defense Information Systems Agency (DISA)** and are
 
 This repository is focused on automating the remediation of **STIGs** on Windows operating systems using **PowerShell scripts**. The scripts are designed to address specific security requirements outlined in each **STIG ID** and can be run in environments that need to adhere to DoD or similar security standards. 
 
-For detailed information on individual STIGs and their associated remediations, I made use of **[stigaview.com](https://stigaview.com/products/win10/v3r1/)**, a comprehensive resource that provides in-depth insights into each STIG.
+Keep reading to see an example of how I handled a STIG implementation, and also the benefits of using automated remediation vs manual remediation. For detailed information on individual STIGs and their associated remediations, I made use of **[stigaview.com](https://stigaview.com/products/win10/v3r1/)**, a comprehensive resource that provides in-depth insights into each STIG.
 
 ---
 
@@ -92,3 +92,14 @@ In this screenshot, you can see that the **Application Event Log Size** is now c
   - **Control**: Gives the user full control over the system configuration.
   - **Learning Opportunity**: Provides insight into the underlying configurations and the ability to make other manual adjustments as needed.
   - **No reliance on scripts**: Useful if automation is not an option in some environments.
+ 
+
+Automated vulnerability remediation is generally considered more effective for Security Technical Implementation Guides (STIGs) due to its efficiency, speed, and ability to manage the frequent updates required by STIGs. Manual processes, on the other hand, are often time-consuming and may cause delays in applying security updates, potentially leaving systems vulnerable for extended periods.
+
+In contrast, automated tools can apply updates and configurations within hours, significantly reducing the time and effort required compared to manual methods. Additionally, automation ensures that systems remain compliant with the latest STIG standards, which are updated every 90 days.
+
+This approach not only accelerates the implementation of new network applications and appliances but also reduces the overall cost of maintaining security policies. Automation further enables continuous monitoring and compliance, which is essential given the dynamic nature of cybersecurity threats and the need for ongoing audit readiness.
+
+While manual audits can provide in-depth insights for smaller systems, automated scans are far more efficient for larger networks.
+
+Overall, the shift towards automated STIG hardening has been driven by the need for faster, more reliable, and cost-effective solutions to maintain compliance and security.
