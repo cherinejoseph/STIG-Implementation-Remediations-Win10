@@ -1,4 +1,4 @@
-## STIG Implementation Remediations - Win10 (Powershell)
+## Programmatic Vulnerability Remediations: STIG Implementations - Win10 (Powershell)
 
 ## Introduction
 
