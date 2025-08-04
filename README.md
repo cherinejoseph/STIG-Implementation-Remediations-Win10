@@ -10,7 +10,7 @@ This repository is focused on automating the remediation of **STIGs** on Windows
 
 Keep reading to see an example of how I handled a STIG implementation using PowerShell scripts for automation, and also the benefits of using automated remediation vs manual remediation. For detailed information on individual STIGs and their associated remediations, I made use of **[stigaview.com](https://stigaview.com/products/win10/v3r1/)**, a comprehensive resource that provides in-depth insights into each STIG.
 
-**[Click here](https://github.com/cherinejoseph/STIG-Implementation-Remediations-Win10/blob/main/STIGS_INFO.md)** to be directed to a table that gives the description of each stig and powershell script that I worked with.
+**[View each STIG's info and Automation Script](https://github.com/cherinejoseph/STIG-Implementation-Remediations-Win10/blob/main/STIGS_INFO.md)** - This includes a description of each STIG I worked with, along with the PowerShell script used for remediation.
 
 ---
 
