@@ -42,7 +42,7 @@ This repository helps simplify the process by providing automated PowerShell scr
 
 To identify which vulnerabilities needed remediation, I performed a vulnerability scan using Tenable. This scan helped pinpoint specific **STIG violations** and highlighted areas of non-compliance within the system. Each identified vulnerability directly corresponds to a **STIG ID**, which I have addressed in this repository with remediation scripts and manual fix instructions.
 
-Below is an example screenshot of the **Tenable vulnerability scan results**, showing the specific STIG violations that needed remediation:
+Below is an screenshot of the **Tenable vulnerability scan results**, showing the specific STIG violations that needed remediation:
 
 ![Tenable Vulnerability Scan Results](https://github.com/cherinejoseph/STIG-Implementation-Remediations-Win10/blob/main/tenable-scan-WN10AU000500.png) 
 
