@@ -5,14 +5,13 @@
     to protect data and communications, enhancing overall cryptographic security.
 
 .NOTES
-    Author          : Josh Madakor
-    LinkedIn        : linkedin.com/in/joshmadakor/
-    GitHub          : github.com/joshmadakor1
+    Author          : Cherine Joseph
+    LinkedIn        : linkedin.com/in/cherine-joseph
+    GitHub          : github.com/cherinejoseph
     Date Created    : 2025-09-18
     Last Modified   : 2025-09-18
     Version         : 1.0
     STIG-ID         : WN10-CC-000052
-    Severity        : Medium
 
 .TESTED ON
     Date(s) Tested  : 2025-09-18
