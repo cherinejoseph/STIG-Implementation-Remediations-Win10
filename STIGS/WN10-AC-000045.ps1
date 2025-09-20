@@ -6,9 +6,9 @@
     in case of system compromise.
 
 .NOTES
-    Author          : Josh Madakor
-    LinkedIn        : linkedin.com/in/joshmadakor/
-    GitHub          : github.com/joshmadakor1
+    Author          : Cherine Joseph
+    LinkedIn        : linkedin.com/in/cherine-joseph
+    GitHub          : github.com/cherinejoseph
     Date Created    : 2024-09-09
     Last Modified   : 2025-09-18
     Version         : 1.0
