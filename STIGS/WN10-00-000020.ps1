@@ -3,9 +3,9 @@
     This PowerShell script ensures that Secure Boot is enabled on Windows 10 systems to prevent unauthorized firmware or OS loaders from running.
 
 .NOTES
-    Author          : Josh Madakor
-    LinkedIn        : linkedin.com/in/joshmadakor/
-    GitHub          : github.com/joshmadakor1
+    Author          : Cherine Joseph
+    LinkedIn        : linkedin.com/in/cherine-joseph
+    GitHub          : github.com/cherinejoseph
     Date Created    : 2025-09-18
     Last Modified   : 2025-09-18
     Version         : 1.0
